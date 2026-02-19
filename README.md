@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  Public Services / Course Reserves Specialist II at <strong>Texas A&M University</strong>
-</p>
-
-<p align="center">
   <!-- University Badges -->
   <img alt="Baylor University" src="https://img.shields.io/badge/-Baylor%20University-154734?style=flat-square&logo=baylor-university&logoColor=FFB81C" />
   <img alt="Prairie View A&M University" src="https://img.shields.io/badge/-Prairie%20View%20A%26M-582c83?style=flat-square&logo=prairie-view-a&m-university&logoColor=eaaa00" />
