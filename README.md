@@ -1,24 +1,29 @@
-
 ### 👋 Hello, I'm Oscar Martinez!
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=0e75b6)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=0e75b6)
+</p>
 
-**Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate**
+<p align="center">
+  <strong>Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate</strong>
+</p>
 
-Public Services / Course Reserves Specialist II at **Texas A&M University**  
-Baylor & Prairie View A&M educated historian.  
+<p align="center">
+  Public Services / Course Reserves Specialist II at <strong>Texas A&M University</strong>
+</p>
 
-<p>
-  <!-- Baylor University Badge -->
+<p align="center">
+  <!-- University Badges -->
   <img alt="Baylor University" src="https://img.shields.io/badge/-Baylor%20University-154734?style=flat-square&logo=baylor-university&logoColor=FFB81C" />
-
-  <!-- Prairie View A&M University Badge -->
   <img alt="Prairie View A&M University" src="https://img.shields.io/badge/-Prairie%20View%20A%26M-582c83?style=flat-square&logo=prairie-view-a&m-university&logoColor=eaaa00" />
 </p>
 
-I work where people meet information — and where complexity becomes clarity.
+<p align="center">
+  I work where people meet information — and where complexity becomes clarity.
+</p>
+
 
 ---
 
