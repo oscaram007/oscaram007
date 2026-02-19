@@ -56,19 +56,6 @@
 
 ---
 
-<h3>📊 Impact at Texas A&M</h3>
-
-- Managed **2,167+ course profiles** in ARES  
-- Supported **68,000+ students** across multiple semesters  
-- Provided **4,543 patron interactions** (22.2% of LibAnswers volume)  
-- Delivered access to materials across:
-  - Face-to-face courses  
-  - Distance learning  
-  - Multiple campuses (College Station, Galveston, McAllen, Qatar)  
-- Ensured compliance with **Copyright, Fair Use, and ADA standards**
-
----
-
 <h3>🧭 Professional Background</h3>
 
 - Historian — Baylor University & Prairie View A&M University  
@@ -119,16 +106,6 @@ I understand systems from the ground up — physical, operational, and digital �
   <img alt="Instruction & User Support" src="https://img.shields.io/badge/-Instruction%20%26%20User%20Support-FF6600?style=flat-square" />
   <img alt="Information Literacy" src="https://img.shields.io/badge/-Information%20Literacy-582C83?style=flat-square" />
 </p>
-
----
-
-<h3>🌎 Interests</h3>
-
-- Reading across the humanities (and beyond)  
-- Exploring new ideas and disciplines  
-- Information architecture & discovery  
-- Library technology and workflow improvement  
-- Digital tools for research and knowledge sharing  
 
 ---
 
