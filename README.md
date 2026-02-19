@@ -117,7 +117,7 @@ I understand systems from the ground up — physical, operational, and digital �
 <p>
   <img alt="English / Español" src="https://img.shields.io/badge/-English%20%2F%20Espa%C3%B1ol-DAA520?style=flat-square" />
   <img alt="Instruction & User Support" src="https://img.shields.io/badge/-Instruction%20%26%20User%20Support-FF6600?style=flat-square" />
-  <img alt="Information Literacy" src="https://img.shields.io/badge/-Explaining%20Complex%20Systems-582C83?style=flat-square" />
+  <img alt="Information Literacy" src="https://img.shields.io/badge/-Information%20Literacy-582C83?style=flat-square" />
 </p>
 
 ---
