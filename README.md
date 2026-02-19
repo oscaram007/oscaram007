@@ -47,7 +47,7 @@
 #### Learning & Platforms
 <p>
   <img alt="LinkedIn Learning" src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" />
-  <img alt="Goodreads" src="https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff" />
+  <img alt="Goodreads" src="https://img.shields.io/badge/Goodreads-e9e5cd?logo=goodreads&logoColor=000" />
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
   <img alt="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" />
 </p>
