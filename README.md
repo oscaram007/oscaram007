@@ -111,7 +111,7 @@ I understand systems from the ground up â€” physical, operational, and digital â
 - Library tools and utilities  
 - Documentation and reference resources  
 - Classification and organization projects  
-- Research and learning experiments  
+- Coding experiments  
 
 ---
 
