@@ -128,9 +128,9 @@ I understand systems from the ground up â€” physical, operational, and digital â
   <a href="https://www.linkedin.com/in/oscaram007/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <span style="text-decoration: none; margin-left: 6px;">
+  <a href="https://www.linkedin.com/in/oscaram007/" target="_blank" style="text-decoration:none; margin-left:6px; color:inherit;">
     LinkedIn/OscarAM007
-  </span>
+  </a>
 </p>
 
 ---
