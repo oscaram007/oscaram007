@@ -83,8 +83,8 @@ I understand systems from the ground up — physical, operational, and digital �
 
 <h3>🧠 Skills</h3>
 
+#### Library & Information
 <p>
-  <!-- Library & Information -->
   <img alt="Course Reserves Management" src="https://img.shields.io/badge/-Course%20Reserves%20Management-2E8B57?style=flat-square" />
   <img alt="Public Services / Reference" src="https://img.shields.io/badge/-Public%20Services%20%2F%20Reference-2F4F4F?style=flat-square" />
   <img alt="Library of Congress Classification" src="https://img.shields.io/badge/-Library%20of%20Congress%20Classification-8B0000?style=flat-square" />
@@ -92,14 +92,20 @@ I understand systems from the ground up — physical, operational, and digital �
   <img alt="Copyright & Fair Use" src="https://img.shields.io/badge/-Copyright%20%26%20Fair%20Use-DAA520?style=flat-square" />
   <img alt="ADA Accessibility" src="https://img.shields.io/badge/-ADA%20Accessibility-228B22?style=flat-square" />
   <img alt="Research Support" src="https://img.shields.io/badge/-Research%20Support-4682B4?style=flat-square" />
+  <img alt="Public Services" src="https://img.shields.io/badge/-Public%20Services-2F4F4F?style=flat-square" />
+</p>
 
-  <!-- Technology -->
+#### Technology
+<p>
   <img alt="Git & GitHub" src="https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Workflow Documentation" src="https://img.shields.io/badge/-Workflow%20Documentation-6A5ACD?style=flat-square" />
   <img alt="Information Organization" src="https://img.shields.io/badge/-Information%20Organization-4682B4?style=flat-square" />
   <img alt="Digital Research Tools" src="https://img.shields.io/badge/-Digital%20Research%20Tools-2E8B57?style=flat-square" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000?logo=json&logoColor=fff" />
+</p>
 
-  <!-- Communication -->
+#### Communication
+<p>
   <img alt="English / Español" src="https://img.shields.io/badge/-English%20%2F%20Espa%C3%B1ol-DAA520?style=flat-square" />
   <img alt="Instruction & User Support" src="https://img.shields.io/badge/-Instruction%20%26%20User%20Support-FF6600?style=flat-square" />
   <img alt="Explaining Complex Systems" src="https://img.shields.io/badge/-Explaining%20Complex%20Systems-582C83?style=flat-square" />
