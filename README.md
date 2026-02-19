@@ -7,8 +7,7 @@
 **Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate**
 
 Public Services / Course Reserves Specialist II at **Texas A&M University**  
-Baylor & Prairie View A&M educated historian.  
-Former educator, federal mail carrier, and school maintenance technician.
+Baylor & Prairie View A&M educated historian.
 
 I work where people meet information — and where complexity becomes clarity.
 
