@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
+  ![Profile Views](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
 </p>
 
 <p align="center">
