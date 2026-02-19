@@ -124,8 +124,11 @@ I understand systems from the ground up — physical, operational, and digital �
 
 <h3>📫 Connect</h3>
 
-- LinkedIn: (add link)  
-- Location: College Station, Texas  
+<p>
+  <a href="https://www.linkedin.com/in/oscaram007/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p> 
 
 ---
 
