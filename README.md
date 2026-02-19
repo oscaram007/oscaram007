@@ -3,10 +3,6 @@
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
-</p>
-
-<p align="center">
   <strong>Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate</strong>
 </p>
 
@@ -21,7 +17,7 @@
 </p>
 
 <p align="center">
-  I work where people meet information — and where complexity becomes clarity.
+  <em>Bridging people, information, and technology to turn complexity into clarity.</em>
 </p>
 
 ---
@@ -143,5 +139,9 @@ I understand systems from the ground up — physical, operational, and digital �
 </p>
 
 ---
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
+</p>
 
 *"Good systems make knowledge easier to reach — and learning easier to begin."*
