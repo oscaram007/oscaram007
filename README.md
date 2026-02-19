@@ -118,14 +118,6 @@ I understand systems from the ground up — physical, operational, and digital �
 
 ---
 
-<h3>📈 GitHub Stats</h3>
-
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&hide_border=true)](https://git.io/streak-stats)
-
----
-
 <h3>📫 Connect</h3>
 
 <p>
