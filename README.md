@@ -1,8 +1,11 @@
+
 ### 👋 Hello, I'm Oscar Martinez!
-**Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate**
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=0e75b6)
+
+**Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate**
 
 Public Services / Course Reserves Specialist II at **Texas A&M University**  
 Baylor & Prairie View A&M educated historian.  
