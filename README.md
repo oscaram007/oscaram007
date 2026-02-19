@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Oscar Martinez!
+### 👋 Hello, I'm Oscar Martinez!
 
 ---
 
