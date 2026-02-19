@@ -140,8 +140,7 @@ I understand systems from the ground up — physical, operational, and digital �
 
 ---
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
-</p>
+<!-- Left-aligned profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
 
 *"Good systems make knowledge easier to reach — and learning easier to begin."*
