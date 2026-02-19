@@ -93,7 +93,7 @@ I understand systems from the ground up â€” physical, operational, and digital â
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
   <img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=fff" />
   <img alt="Google Slides" src="https://img.shields.io/badge/Google%20Slides-F4B400?logo=googleslides&logoColor=fff" />
-  <img alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere-990000?logo=adobe-premiere&logoColor=fff" />
+  <img alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere-990000?logo=adobe&logoColor=fff&style=flat-square" />
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-0F9D58?logo=googlesheets&logoColor=fff" />
   <img alt="Internet Archive" src="https://img.shields.io/badge/Internet%20Archive-663399?logo=internetarchive&logoColor=fff" />
   <img alt="Notebook LM" src="https://img.shields.io/badge/Notebook%20LM-00BFA5?style=flat-square" />
