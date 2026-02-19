@@ -19,8 +19,9 @@
 ---
 
 <h3>📚 What I work with</h3>
+
+#### Library Systems
 <p>
-  <!-- Library Systems -->
   <img alt="FOLIO" src="https://img.shields.io/badge/-FOLIO-2E8B57?style=flat-square" />
   <img alt="ARES" src="https://img.shields.io/badge/-ARES%20Course%20Reserves-4B8BBE?style=flat-square" />
   <img alt="LibAnswers" src="https://img.shields.io/badge/-LibAnswers-6A5ACD?style=flat-square" />
@@ -30,21 +31,27 @@
   <img alt="ADA" src="https://img.shields.io/badge/-ADA%20Accessibility-228B22?style=flat-square" />
   <img alt="Research Support" src="https://img.shields.io/badge/-Research%20Support-4682B4?style=flat-square" />
   <img alt="Public Services" src="https://img.shields.io/badge/-Public%20Services-2F4F4F?style=flat-square" />
+</p>
 
-  <!-- Development & Technical -->
+#### Development & Technical
+<p>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
+</p>
 
-  <!-- Learning & Platforms -->
+#### Learning & Platforms
+<p>
   <img alt="LinkedIn Learning" src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" />
   <img alt="Goodreads" src="https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff" />
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
   <img alt="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" />
+</p>
 
-  <!-- AI Tools -->
+#### AI Tools
+<p>
   <img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
   <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
