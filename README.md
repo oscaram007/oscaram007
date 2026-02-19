@@ -31,10 +31,9 @@
   <img alt="ADA" src="https://img.shields.io/badge/-ADA%20Accessibility-228B22?style=flat-square" />
   <img alt="Research Support" src="https://img.shields.io/badge/-Research%20Support-4682B4?style=flat-square" />
   <img alt="Public Services" src="https://img.shields.io/badge/-Public%20Services-2F4F4F?style=flat-square" />
-  <img alt="ILLiad" src="https://img.shields.io/badge/-ILLiad-FF6600?style=flat-square" />
-  <img alt="Springshare" src="https://img.shields.io/badge/-Springshare-00A3E0?style=flat-square" />
+  <img alt="ILLiad" src="https://img.shields.io/badge/-ILLiad-00A3E0?style=flat-square" />
+  <img alt="Springshare" src="https://img.shields.io/badge/-Springshare-FF6600?style=flat-square" />
 </p>
-
 
 #### Development & Technical
 <p>
