@@ -7,7 +7,15 @@
 **Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate**
 
 Public Services / Course Reserves Specialist II at **Texas A&M University**  
-Baylor & Prairie View A&M educated historian.
+Baylor & Prairie View A&M educated historian.  
+
+<p>
+  <!-- Baylor University Badge -->
+  <img alt="Baylor University" src="https://img.shields.io/badge/-Baylor%20University-154734?style=flat-square&logo=baylor-university&logoColor=FFB81C" />
+
+  <!-- Prairie View A&M University Badge -->
+  <img alt="Prairie View A&M University" src="https://img.shields.io/badge/-Prairie%20View%20A%26M-582c83?style=flat-square&logo=prairie-view-a&m-university&logoColor=eaaa00" />
+</p>
 
 I work where people meet information — and where complexity becomes clarity.
 
