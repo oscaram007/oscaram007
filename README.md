@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
+  ![](https://komarev.com/ghpvc/?username=oscaram007&color=0e75b6)
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 <p align="center">
   I work where people meet information — and where complexity becomes clarity.
 </p>
-
 
 ---
 
