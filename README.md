@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I work at the intersection of **people, information, and library technology**.
+  <em>Bridging people, information, and technology to turn complexity into clarity.</em>
 </p>
 
 ---
