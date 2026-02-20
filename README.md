@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>I work at the intersection of **people, information, and library technology**.</em>
+  I work at the intersection of **people, information, and library technology**.
 </p>
 
 ---
