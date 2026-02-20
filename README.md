@@ -73,16 +73,16 @@ I understand systems from the ground up â€” physical, operational, and digital â
 
 #### Library & Information
 <p>
-  <img alt="Course Reserves Management" src="https://img.shields.io/badge/Course%20Reserves%20Management-2E8B57?style=plastic" />
-  <img alt="Public Services and Reference" src="https://img.shields.io/badge/Public%20Services%20%2F%20Reference-2F4F4F?style=plastic" />
-  <img alt="Library of Congress Classification" src="https://img.shields.io/badge/Library%20of%20Congress%20Classification-8B0000?style=plastic" />
-  <img alt="Metadata" src="https://img.shields.io/badge/Metadata-708090?style=plastic" />
-  <img alt="Copyright and Fair Use" src="https://img.shields.io/badge/Copyright%20%26%20Fair%20Use-DAA520?style=plastic" />
-  <img alt="ADA Accessibility" src="https://img.shields.io/badge/ADA%20Accessibility-228B22?style=plastic" />
-  <img alt="Research Support" src="https://img.shields.io/badge/Research%20Support-4682B4?style=plastic" />
-  <img alt="Digital Research Tools" src="https://img.shields.io/badge/Digital%20Research%20Tools-2E8B57?style=plastic" />
-  <img alt="Workflow Documentation" src="https://img.shields.io/badge/Workflow%20Documentation-6A5ACD?style=plastic" />
-  <img alt="Information Organization" src="https://img.shields.io/badge/Information%20Organization-4682B4?style=plastic" />
+  <img alt="Course Reserves Management" src="https://img.shields.io/badge/Course%20Reserves%20Management-1E8449?style=plastic" />
+  <img alt="Public Services and Reference" src="https://img.shields.io/badge/Public%20Services%20%2F%20Reference-34495E?style=plastic" />
+  <img alt="Library of Congress Classification" src="https://img.shields.io/badge/Library%20of%20Congress%20Classification-922B21?style=plastic" />
+  <img alt="Metadata" src="https://img.shields.io/badge/Metadata-5D6D7E?style=plastic" />
+  <img alt="Copyright and Fair Use" src="https://img.shields.io/badge/Copyright%20%26%20Fair%20Use-D4AC0D?style=plastic" />
+  <img alt="ADA Accessibility" src="https://img.shields.io/badge/ADA%20Accessibility-239B56?style=plastic" />
+  <img alt="Research Support" src="https://img.shields.io/badge/Research%20Support-2E86C1?style=plastic" />
+  <img alt="Digital Research Tools" src="https://img.shields.io/badge/Digital%20Research%20Tools-17A589?style=plastic" />
+  <img alt="Workflow Documentation" src="https://img.shields.io/badge/Workflow%20Documentation-6C3483?style=plastic" />
+  <img alt="Information Organization" src="https://img.shields.io/badge/Information%20Organization-2874A6?style=plastic" />
 </p>
 
 #### Communication
