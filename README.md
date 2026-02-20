@@ -61,8 +61,8 @@
 - Historian & Educator from  
   <img alt="Baylor University" src="https://img.shields.io/badge/Baylor%20University-154734?style=plastic" />
   <img alt="Prairie View A&M University" src="https://img.shields.io/badge/Prairie%20View%20A%26M%20University-582C83?style=plastic" />
-- Texas Education Agency (TEA) Certified bilingual educator (Social Studies 4–8 & 7–12)  
-- T-TESS rated **Accomplished & Proficient**  
+- Certified bilingual educator (Social Studies 4–8 & 7–12)  
+  - T-TESS rated **Accomplished & Proficient**
 - Currently a Public Services & Course Reserves Library Specialist at a R1 Carnegie-Classified Academic Library
 
 I understand systems from the ground up — physical, operational, and digital — and translate them into clear guidance others can use.
