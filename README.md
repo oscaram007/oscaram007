@@ -17,7 +17,7 @@
 #### Library Systems
 <p>
   <img alt="FOLIO library platform" src="https://img.shields.io/badge/FOLIO-2E8B57?style=plastic" />
-  <img alt="ARES course reserves system" src="https://img.shields.io/badge/ARES%20Course%20Reserves-4B8BBE?style=plastic" />
+  <img alt="ARES course reserves system" src="https://img.shields.io/badge/ARES-4B8BBE?style=plastic" />
   <img alt="LibAnswers reference platform" src="https://img.shields.io/badge/LibAnswers-6A5ACD?style=plastic" />
   <img alt="Library of Congress Classification system" src="https://img.shields.io/badge/Library%20of%20Congress%20Classification-8B0000?style=plastic" />
   <img alt="ILLiad interlibrary loan system" src="https://img.shields.io/badge/ILLiad-00A3E0?style=plastic" />
