@@ -50,8 +50,8 @@
 #### AI Tools
 <p>
   <img alt="ChatGPT AI assistant" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=plastic&logo=openai&logoColor=white" />
-  <img alt="Claude AI assistant" src="https://img.shields.io/badge/Claude-D97757?style=plastic" />
-  <img alt="Google Gemini AI assistant" src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic" />
+  <img alt="Claude AI assistant" src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white" />
+  <img alt="Google Gemini AI assistant" src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic&logo=google&logoColor=white" />
 </p>
 
 ---
