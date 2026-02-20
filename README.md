@@ -1,5 +1,7 @@
 ### 👋 Hello, I'm Oscar Martinez!
+
 ---
+
 <p align="center">
   <strong>Historian | Bilingual Educator | Public Services Library Specialist | Information Access Advocate</strong>
 </p>
@@ -7,7 +9,9 @@
 <p align="center">
   <em>Bridging people, information, and technology to turn complexity into clarity.</em>
 </p>
+
 ---
+
 <h3>📚 What I work with</h3>
 
 #### Library Systems
@@ -49,7 +53,9 @@
   <img alt="Claude AI assistant" src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white" />
   <img alt="Google Gemini AI assistant" src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=plastic&logo=google&logoColor=white" />
 </p>
+
 ---
+
 <h3>🧭 Professional Background</h3>
 
 - Historian & Educator from  
@@ -60,7 +66,9 @@
 - Currently a Public Services & Course Reserves Library Specialist at a R1 Carnegie-Classified Academic Library
 
 I understand systems from the ground up — physical, operational, and digital — and translate them into clear guidance others can use.
+
 ---
+
 <h3>🧠 Skills</h3>
 
 #### Library & Information
@@ -84,14 +92,18 @@ I understand systems from the ground up — physical, operational, and digital �
   <img alt="Instruction and User Support" src="https://img.shields.io/badge/Instruction%20%26%20User%20Support-FF6600?style=plastic" />
   <img alt="Information Literacy" src="https://img.shields.io/badge/Information%20Literacy-582C83?style=plastic" />
 </p>
+
 ---
+
 <h3>📂 What you’ll find here</h3>
 
 - Library tools and utilities  
 - Documentation and reference resources  
 - Classification and organization projects  
 - Coding experiments  
+
 ---
+
 <h3>📫 Connect</h3>
 
 <p>
@@ -99,7 +111,9 @@ I understand systems from the ground up — physical, operational, and digital �
     <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=oscaram007&style=plastic&color=0e75b6" />
 </p>
